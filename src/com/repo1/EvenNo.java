@@ -11,7 +11,7 @@ public class EvenNo {
 			}
 			if(i%2!=0)
 			{
-				System.out.println("Even no: "+i);
+				System.out.println("Odd no: "+i);
 			}
 		}
 
