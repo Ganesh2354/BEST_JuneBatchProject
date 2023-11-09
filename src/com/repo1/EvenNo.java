@@ -9,6 +9,10 @@ public class EvenNo {
 			{
 				System.out.println("Even no: "+i);
 			}
+			if(i%2!=0)
+			{
+				System.out.println("Even no: "+i);
+			}
 		}
 
 	}
